@@ -1,7 +1,7 @@
 // Controlling Robotic Head with Arduino Uno and Adafruit Motorshield via serial port 
 //    Be sure you select Arduino Uno from board list (others may give errors)
 //
-// Mike Barela, 1/2/2013
+// Anne Barela, 1/2/2013
 
 #include <Servo.h>
 #include <Serial.h>
