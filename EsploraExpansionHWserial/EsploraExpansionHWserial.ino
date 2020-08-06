@@ -9,7 +9,7 @@
  * RX is digital pin 0 / Esplora right expansion pin 7 (connect to TX of other device) 
  * TX is digital pin 1 / Esplora right expansion pin 8 (connect to RX of other device)
  
-By M Barela  12/30/2012  http://21stdigitalhome.blogspot.com/
+By Anne Barela  12/30/2012  http://21stdigitalhome.blogspot.com/
  
  */
 
