@@ -16,7 +16,7 @@
  Based on Arduino SoftSerialExample by Tom Igoe
  which was based on Mikal Hart's example
  
- Modified for Esplora by M Barela  12/30/2012  http://21stdigitalhome.blogspot.com/
+ Modified for Esplora by Anne Barela  12/30/2012  http://21stdigitalhome.blogspot.com/
  
  */
 #include <SoftwareSerial.h>
