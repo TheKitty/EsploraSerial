@@ -8,7 +8,7 @@
   Arduino Uno and an Adafruit Motorshield connected to a Robotic Head.  Independent
   control of the neck, chin, eyes, and mouth are possible using 2 servos and 2 DC motors.
 
-  Updated on January 3, 2013 Mike Barela http://21stdigitalhome.blogspot.com/
+  Updated on January 3, 2013 Anne Barela http://21stdigitalhome.blogspot.com/
 */
 
 #include <Esplora.h>
