@@ -23,7 +23,7 @@
            Write "T0" to turn off the buzzer.
   
 
-  Created on January 1, 2013 M Barela http://21stdigitalhome.blogspot.com/
+  Created on January 1, 2013 Anne Barela http://21stdigitalhome.blogspot.com/
   Based on EsploraRemote example code by Enrico Gueli <enrico.gueli@gmail.com>
 */
 
