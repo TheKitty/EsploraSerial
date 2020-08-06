@@ -19,6 +19,6 @@ Esplora related articles which may use this code.
 
 This code is Open Software, Creative Commons 3.0 attribute  (free to use, just say you got it here).
 If you use this code, please keep in the header that it is based on code
-by Mike Barela dated 12/2012 and 1/2013
+by Anne Barela dated 12/2012 and 1/2013
 
 Good luck and please post your derivatives.
